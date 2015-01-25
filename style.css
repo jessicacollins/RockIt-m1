@@ -1,0 +1,39 @@
+
+header {
+	font-family: Lobster;
+	background-color: white;
+	padding: 2px;
+	font-size: 40px;
+}
+nav {
+	background-color: #333;
+	color: white;
+	padding: 10px;
+	font-family: Lato;
+	font-weight: bold;
+}
+nav a {
+	color: white;
+	padding: 10px;
+}
+
+body {
+	margin: 0;
+	background-image: url("background.jpg");
+}
+main {
+	font-family: Lato;
+	background-color: white;
+	opacity: 0.8;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+main h1 {
+	color: #438123;
+}
+footer {
+	color: white;
+	margin: 10px;
+}
