@@ -1,4 +1,8 @@
-
+body {
+	margin: 0;
+	background-image: url("background.jpg");
+	background-size: cover;
+}
 header {
 	font-family: Lobster;
 	background-color: white;
@@ -16,10 +20,9 @@ nav a {
 	color: white;
 	padding: 10px;
 }
-
-body {
-	margin: 0;
-	background-image: url("background.jpg");
+header a {
+    text-decoration: none;
+    color: black;
 }
 main {
 	font-family: Lato;
@@ -29,7 +32,6 @@ main {
 	padding: 10px;
 	border-radius: 10px;
 }
-
 main h1 {
 	color: #438123;
 }

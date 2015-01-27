@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>M2</title>
+	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href='http://fonts.googleapis.com/css?family=Lato:300|Lobster' rel='stylesheet' type='text/css'>
 </head>
